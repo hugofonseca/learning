@@ -1,0 +1,9 @@
+C:\Users\hugo.silva\Desktop\learning\learning\bin\Debug\learning.exe.config
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.csprojResolveAssemblyReference.cache
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.Form1.resources
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.Properties.Resources.resources
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.csproj.GenerateResource.Cache
+C:\Users\hugo.silva\Desktop\learning\learning\bin\Debug\learning.exe
+C:\Users\hugo.silva\Desktop\learning\learning\bin\Debug\learning.pdb
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.exe
+C:\Users\hugo.silva\Desktop\learning\learning\obj\Debug\learning.pdb
