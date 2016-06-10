@@ -12,6 +12,14 @@ namespace learning
 {
     public partial class Form1 : Form
     {
+        static ulong fac(ulong number)
+        {
+            if (number == 0)
+            {
+                return 1;
+            }
+            return fac(number - 1) * number;
+        }
         int[] oi = new int[5] { 1, 2, 3, 4, 5 };
         public Form1()
         {
@@ -21,6 +29,7 @@ namespace learning
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine(Oi(oi));
+            Console.WriteLine(fac(32));
         }
         public int Oi(int[] valores)
         {
@@ -29,7 +38,6 @@ namespace learning
             {
                 total += i;
             }
-            return total;
         }
     }
 }
